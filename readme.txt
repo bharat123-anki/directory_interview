@@ -1,9 +1,8 @@
 
-
-1)The Entry POint of project is :-http://localhost/interview_user/index.php/Welcome/index
-
-i)username:test@gmail.com
-ii)password:qwerty
+1)The Entry Point of project is :-http://localhost/directory_interview/index.php/Welcome/
 
 
-2)Armstrong Number URl Is :-http://localhost/interview_user/index.php/Welcome/armstrongCalculation
+Usename:-test@gmail.com
+Password-:qwerty
+
+2)Armstrong Number URl Is :-http://localhost/directory_interview/index.php/Welcome/armstrongCalculation
